@@ -1,0 +1,33 @@
+{
+    "name": "Neueframe",
+    "version": "1.0.0",
+    "description": "This is a framework for front-end web developement based on Gulp 4",
+    "main": "gulpfile.js",
+    "dependencies": {
+        "browser-sync": "^2.26.7",
+        "gulp": "^4.0.2",
+        "gulp-clean-css": "^4.3.0",
+        "gulp-concat": "^2.6.1",
+        "gulp-connect-php": "^1.0.3",
+        "gulp-imagemin": "^7.1.0",
+        "gulp-notify": "^3.2.0",
+        "gulp-rename": "^2.0.0",
+        "gulp-sass": "^4.0.2",
+        "gulp-sourcemaps": "^2.6.5",
+        "gulp-uglify": "^3.0.2"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/amylily1011/gulp4-sass-bootstrap.git"
+    },
+    "author": "Nicolas NEGRIER",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/amylily1011/gulp4-sass-bootstrap/issues"
+    },
+    "homepage": "https://github.com/amylily1011/gulp4-sass-bootstrap#readme"
+}

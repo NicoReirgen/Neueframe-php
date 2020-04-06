@@ -1,0 +1,2 @@
+<h2><?php page_title(); ?></h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi cum nostrum fuga, delectus aperiam, voluptas alias officiis cupiditate ratione hic neque est pariatur quibusdam. Tenetur impedit reiciendis molestiae culpa voluptates!</p>
